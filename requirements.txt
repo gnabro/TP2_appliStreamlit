@@ -6,9 +6,8 @@ seaborn==0.13.2
 scikit-learn==1.6.1
 imbalanced-learn==0.13.0
 xgboost==2.1.4
-sweetviz==2.3.1
 plotly==6.0.0
 joblib==1.4.2
 openpyxl==3.1.5
-setuptools
-ydata-profiling
+setuptools==70.0.0
+ydata-profiling==4.12.2
