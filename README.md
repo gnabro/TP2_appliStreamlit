@@ -1,2 +1,3 @@
 # TP2_appliStreamlit
 Application_ML_ApprentisageSupervise
+Deployement sur github
